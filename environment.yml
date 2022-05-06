@@ -1,0 +1,12 @@
+name: auto-emergencybreak
+dependencies:
+    - python
+    - numpy
+    - matplotlib
+    - jupyter
+    - scikit-learn
+    - cython
+    - pip:
+        - pygame
+        - pyserial
+        - opencv-python
